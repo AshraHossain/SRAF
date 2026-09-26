@@ -1,5 +1,6 @@
 # Self-Reflective Agent Framework (SRAF)
 
+![CI](https://github.com/AshraHossain/SRAF/actions/workflows/ci.yml/badge.svg)
 Policy-gated evaluation and bounded regeneration for agent drafts. Apache-2.0. **Prototype scaffold, not a certified production system.** Judges are fallible, and no generated answer or tool action is automatically trustworthy.
 
 ## Architecture
