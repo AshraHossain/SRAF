@@ -22,3 +22,8 @@ where = ["src"]
 testpaths = ["tests"]
 [tool.ruff]
 line-length = 100
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.6.2",
+]
