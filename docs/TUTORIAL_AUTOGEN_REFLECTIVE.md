@@ -1,0 +1,2 @@
+# AutoGen reflective workflow
+Install `pip install -e ".[autogen]"`. Supply a configured AutoGen model client to `await run_chat_with_judge(topic, model_client, engine)` from `sraf.framework_adapters.autogen_reflective_adapter`. A two-message RoundRobinGroupChat yields an author draft and judge critique; the SRAF judge then independently scores and revises. Close the model client after use. No conversation participant gets side-effecting tools by default. Inspect `result.history`.

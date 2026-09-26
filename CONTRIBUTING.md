@@ -1,0 +1,2 @@
+# Contributing
+Open an issue describing adapter or metric semantics. Add tests using the fixture provider; isolate paid integration tests behind explicit opt-in flags. Document expected provider cost and safety model. Run `ruff check src tests` and `pytest -q`; avoid secrets and sensitive traces. Open a PR with before/after behavior, limitations and migration notes. Respect upstream framework licensing and API compatibility; propose upstream hooks before claiming an upstream integration.

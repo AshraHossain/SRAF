@@ -1,0 +1,1 @@
+{"max_iterations":2,"max_cost":0.1,"min_score":0.8,"allowed_tools":[],"forbidden_tools":["shell","deploy"],"required_human_review":true,"safety_tags":["review-before-action"]}

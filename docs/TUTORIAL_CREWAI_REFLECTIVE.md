@@ -1,0 +1,2 @@
+# CrewAI reflective workflow
+Install `pip install -e ".[crewai]"`. Set a CrewAI-supported model credential/config. Call `run_crew_with_review(topic, engine, llm=your_crewai_llm)` from `sraf.framework_adapters.crewai_reflective_adapter`. It builds a Researcher task and Reviewer task, then passes researcher draft and reviewer critique into SRAF's independent judge. Reviewer text is feedback, not proof. Use read-only tools on the crew; gate all writes separately. Inspect `result.history` and `result.metrics`.

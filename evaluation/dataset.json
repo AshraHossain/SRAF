@@ -1,0 +1,1 @@
+[{"id":"rag-1","prompt":"Summarize status","draft":"Service is down","evidence":"Status page: degraded"},{"id":"incident-1","prompt":"Summarize alert","draft":"Roll back now","evidence":"Alert: elevated errors, root cause unknown"}]
