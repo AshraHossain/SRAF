@@ -1,9 +1,53 @@
-.venv/
+# Byte-compiled / optimized files
 __pycache__/
-.pytest_cache/
-.ruff_cache/
-artifacts/
-.env
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
 *.egg-info/
+.eggs/
+build/
+dist/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+.uv/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+.pyright/
+
+# Environment / secrets
+.env
+.env.*
+*.local
+
+# Editors / IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Serena / project-specific tooling
 .serena/
-.serena/
+
+# Logs
+*.log
