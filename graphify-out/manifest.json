@@ -1,0 +1,290 @@
+{
+  "/Users/ashraf-macbookair/projects/SRAF/.claude-flow/autopilot-mod/status.json": {
+    "mtime": 1794856821.3873687,
+    "seen": 1794873690.818597,
+    "ast_hash": "77e1f2437eed6ff795a9e74b8464b13b",
+    "semantic_hash": "77e1f2437eed6ff795a9e74b8464b13b"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude-flow/browser-mod/status.json": {
+    "mtime": 1794856821.344943,
+    "seen": 1794873690.818599,
+    "ast_hash": "3b4ffb4621cc566234bb5e50f5917cbe",
+    "semantic_hash": "3b4ffb4621cc566234bb5e50f5917cbe"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude-flow/loop-mod/status.json": {
+    "mtime": 1794856821.4092274,
+    "seen": 1794873690.8186,
+    "ast_hash": "233f79e81d0ace5c2e46c1a8ae3e9241",
+    "semantic_hash": "233f79e81d0ace5c2e46c1a8ae3e9241"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude-flow/rag-mod/status.json": {
+    "mtime": 1794856821.2596736,
+    "seen": 1794873690.818601,
+    "ast_hash": "5266c6208874fba1c345dfc0d1bb1f40",
+    "semantic_hash": "5266c6208874fba1c345dfc0d1bb1f40"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude/settings.local.json": {
+    "mtime": 1794856820.685097,
+    "seen": 1794873690.818601,
+    "ast_hash": "9942099b35d07e2c20ad78cbd6d66570",
+    "semantic_hash": "9942099b35d07e2c20ad78cbd6d66570"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/evaluation/dataset.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818602,
+    "ast_hash": "71a213abcae35b6dc918926f9e815f79",
+    "semantic_hash": "71a213abcae35b6dc918926f9e815f79"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_incident_reflective/policy.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818602,
+    "ast_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912",
+    "semantic_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_incident_reflective/run.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818602,
+    "ast_hash": "f0a2a57b76dacf0f1939fa9a4c67f86a",
+    "semantic_hash": "f0a2a57b76dacf0f1939fa9a4c67f86a"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_incident_reflective/sample_inputs.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818603,
+    "ast_hash": "5f41e8f8a712c2a32cbae33fbfa85f8a",
+    "semantic_hash": "5f41e8f8a712c2a32cbae33fbfa85f8a"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_rag_self_correcting/policy.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818603,
+    "ast_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912",
+    "semantic_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_rag_self_correcting/run.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818603,
+    "ast_hash": "6b887c9feb22ddd6f5091b702e26f96e",
+    "semantic_hash": "6b887c9feb22ddd6f5091b702e26f96e"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_rag_self_correcting/sample_inputs.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818604,
+    "ast_hash": "4b066972fea94de1b5217633c1ac17c3",
+    "semantic_hash": "4b066972fea94de1b5217633c1ac17c3"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_sales_reflective/policy.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818604,
+    "ast_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912",
+    "semantic_hash": "8d3b83e3a4cd80c7ec9ad3ffac1fd912"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_sales_reflective/run.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818604,
+    "ast_hash": "1509e7fab2cb2c443984d29bc79d5e9d",
+    "semantic_hash": "1509e7fab2cb2c443984d29bc79d5e9d"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/examples/example_sales_reflective/sample_inputs.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818605,
+    "ast_hash": "c81f9076bad3e9126c970f732796c0d3",
+    "semantic_hash": "c81f9076bad3e9126c970f732796c0d3"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/policies/default.json": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818605,
+    "ast_hash": "a7789b1ecc77f213d066639b5bdb121f",
+    "semantic_hash": "a7789b1ecc77f213d066639b5bdb121f"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/pyproject.toml": {
+    "mtime": 1790406113.4272728,
+    "seen": 1794873690.818605,
+    "ast_hash": "c7afa9621e06634221caa7cbc6410c14",
+    "semantic_hash": "c7afa9621e06634221caa7cbc6410c14"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/scripts/demo.ps1": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.8186061,
+    "ast_hash": "ee742d3360003b9f02beaf57b1570d9b",
+    "semantic_hash": "ee742d3360003b9f02beaf57b1570d9b"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/__init__.py": {
+    "mtime": 1790403050.8034458,
+    "seen": 1794873690.8186061,
+    "ast_hash": "9079b0aad18cd55beba57c269b3c5094",
+    "semantic_hash": "9079b0aad18cd55beba57c269b3c5094"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/cli.py": {
+    "mtime": 1790403050.8034542,
+    "seen": 1794873690.8186061,
+    "ast_hash": "d206a149e3de990a17d7ff2e42d977a5",
+    "semantic_hash": "d206a149e3de990a17d7ff2e42d977a5"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/core/__init__.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818607,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/core/engine.py": {
+    "mtime": 1790403050.8040748,
+    "seen": 1794873690.818607,
+    "ast_hash": "a4423c66dc6f249814a5b2b71ee86cf1",
+    "semantic_hash": "a4423c66dc6f249814a5b2b71ee86cf1"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/core/models.py": {
+    "mtime": 1790403050.8043485,
+    "seen": 1794873690.818608,
+    "ast_hash": "0f0c9a82fe3dd938c3fbb8c0f0400ab6",
+    "semantic_hash": "0f0c9a82fe3dd938c3fbb8c0f0400ab6"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/core/providers.py": {
+    "mtime": 1790403050.8036516,
+    "seen": 1794873690.818608,
+    "ast_hash": "0a56bd99890ee910136f9c0443ced967",
+    "semantic_hash": "0a56bd99890ee910136f9c0443ced967"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/evaluation/__init__.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818608,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/evaluation/benchmark.py": {
+    "mtime": 1790403050.8037076,
+    "seen": 1794873690.818608,
+    "ast_hash": "891f21403e4b1930bece5fc83148511d",
+    "semantic_hash": "891f21403e4b1930bece5fc83148511d"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/framework_adapters/__init__.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818609,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/framework_adapters/autogen_reflective_adapter.py": {
+    "mtime": 1790403050.8036718,
+    "seen": 1794873690.818609,
+    "ast_hash": "eb2f4e721b41c3a77d55da0b55fe1b3f",
+    "semantic_hash": "eb2f4e721b41c3a77d55da0b55fe1b3f"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/framework_adapters/crewai_reflective_adapter.py": {
+    "mtime": 1790403050.8038304,
+    "seen": 1794873690.818609,
+    "ast_hash": "d0e5893ebffe0fe81ddb6678960f0009",
+    "semantic_hash": "d0e5893ebffe0fe81ddb6678960f0009"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/framework_adapters/langgraph_reflective_adapter.py": {
+    "mtime": 1790403050.8035748,
+    "seen": 1794873690.81861,
+    "ast_hash": "743a398e33d5fb313e5e0cc391cfca21",
+    "semantic_hash": "743a398e33d5fb313e5e0cc391cfca21"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/observability/__init__.py": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.81861,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/src/sraf/observability/store.py": {
+    "mtime": 1790403050.8035293,
+    "seen": 1794873690.81861,
+    "ast_hash": "06b395b6a3e3fcffce3dbb4670c9ecb3",
+    "semantic_hash": "06b395b6a3e3fcffce3dbb4670c9ecb3"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/tests/test_engine.py": {
+    "mtime": 1790403050.8037221,
+    "seen": 1794873690.818611,
+    "ast_hash": "0f14b6ac27c589d47ef21014cfc60f75",
+    "semantic_hash": "0f14b6ac27c589d47ef21014cfc60f75"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude/rules/policy-gate.md": {
+    "mtime": 1794772070.6824687,
+    "seen": 1794873690.818611,
+    "ast_hash": "4e28002427e9985c20424419ddfb1557",
+    "semantic_hash": "4e28002427e9985c20424419ddfb1557"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.claude/skills/evaluate-sraf-policy/SKILL.md": {
+    "mtime": 1794772070.6825783,
+    "seen": 1794873690.818611,
+    "ast_hash": "7a323ab8c96e7e212b283c6f2eeaee6f",
+    "semantic_hash": "7a323ab8c96e7e212b283c6f2eeaee6f"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.github/workflows/ci.yml": {
+    "mtime": 1790405351.9011264,
+    "seen": 1794873690.8186119,
+    "ast_hash": "a1a54d40d688fdfa9a16c54f2c480605",
+    "semantic_hash": "a1a54d40d688fdfa9a16c54f2c480605"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/.pre-commit-config.yaml": {
+    "mtime": 1790405556.6229088,
+    "seen": 1794873690.8186119,
+    "ast_hash": "eda6c6aaa3e99f14e75b6c966c4a08cf",
+    "semantic_hash": "eda6c6aaa3e99f14e75b6c966c4a08cf"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/AGENTS.md": {
+    "mtime": 1794772070.6822438,
+    "seen": 1794873690.8186119,
+    "ast_hash": "0d5ee3146b2f37cd0e4d8c70f64c6b69",
+    "semantic_hash": "0d5ee3146b2f37cd0e4d8c70f64c6b69"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/CLAUDE.md": {
+    "mtime": 1794772070.6823866,
+    "seen": 1794873690.818613,
+    "ast_hash": "87b7c75d04f971c038af75dfa5c4d944",
+    "semantic_hash": "87b7c75d04f971c038af75dfa5c4d944"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/CONTRIBUTING.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818613,
+    "ast_hash": "beab4de0b99d9d65c4ce9be41e512aed",
+    "semantic_hash": "beab4de0b99d9d65c4ce9be41e512aed"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/GEMINI.md": {
+    "mtime": 1794772070.6823225,
+    "seen": 1794873690.818613,
+    "ast_hash": "c9a6408e5c4765c775e2ef314e475fa9",
+    "semantic_hash": "c9a6408e5c4765c775e2ef314e475fa9"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/README.md": {
+    "mtime": 1790405488.0231447,
+    "seen": 1794873690.818614,
+    "ast_hash": "deaa69826ea1dc315ac8719cecc71435",
+    "semantic_hash": "deaa69826ea1dc315ac8719cecc71435"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/PR_DESCRIPTION.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818614,
+    "ast_hash": "26836bd4ac54efcac9fd60fdc6aa9cb5",
+    "semantic_hash": "26836bd4ac54efcac9fd60fdc6aa9cb5"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/REFLECTION_CYCLE.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818615,
+    "ast_hash": "8d30af831820a1832055c3d0bed2654d",
+    "semantic_hash": "8d30af831820a1832055c3d0bed2654d"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/TUTORIAL_AUTOGEN_REFLECTIVE.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818615,
+    "ast_hash": "57bb24470f20d95f4e6e5ecd5ec58033",
+    "semantic_hash": "57bb24470f20d95f4e6e5ecd5ec58033"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/TUTORIAL_CREWAI_REFLECTIVE.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818615,
+    "ast_hash": "a419de8cf9ae310859da9c75331c20de",
+    "semantic_hash": "a419de8cf9ae310859da9c75331c20de"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/TUTORIAL_LANGGRAPH_REFLECTIVE.md": {
+    "mtime": 1790424182.0,
+    "seen": 1794873690.818615,
+    "ast_hash": "e26a958f438bd387e5f7a36490e09244",
+    "semantic_hash": "e26a958f438bd387e5f7a36490e09244"
+  },
+  "/Users/ashraf-macbookair/projects/SRAF/docs/superpowers/plans/2026-11-16-sraf-enterprise-upgrade.md": {
+    "mtime": 1794882678.877688,
+    "seen": 1794888244.819463,
+    "ast_hash": "deb2c7727e4b849d5160cef4e58790cf",
+    "semantic_hash": "deb2c7727e4b849d5160cef4e58790cf"
+  }
+}
